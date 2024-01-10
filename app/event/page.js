@@ -55,7 +55,7 @@ const page = () => {
                                     </div>
                                 </div>
                                 <div>
-                                    <div className="w-[500px] max-md:w-auto min-h-[280px] border border-pink-500 rounded-xl p-4 max-md:p-2">
+                                    <div className="w-[500px] max-md:w-auto min-h-[362px] border border-pink-500 rounded-xl p-4 max-md:p-2">
                                         <h2 className="text-3xl text-center pb-2">
                                             Tiệc cưới nhà Trai
                                         </h2>
