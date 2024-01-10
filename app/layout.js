@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
     return (
         <html lang="en">
             <head>
-                <title>Văn Thơ</title>
+                <title>Hằng ♥ Khánh</title>
             </head>
             <body className={`${inter.className}`}>
                 <div>

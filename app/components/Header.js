@@ -37,7 +37,7 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-            {/* <audio autoPlay loop>
+            <audio autoPlay loop>
                 <source src="/love.mp3" />
             </audio>
             <iframe
@@ -45,7 +45,7 @@ const Header = () => {
                 allow="autoplay"
                 id="audio"
                 className="hidden"
-            ></iframe> */}
+            ></iframe>
 
             <nav>
                 <div className="navbar">
