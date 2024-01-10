@@ -40,69 +40,6 @@ const HomePage = () => {
             >
                 <SwiperSlide>
                     <Image
-                        src="/1.jpg"
-                        width={1000}
-                        height={1000}
-                        className="w-full rounded-lg border border-pink-300"
-                        alt=""
-                    />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <Image
-                        src="/TUN_8146.jpg"
-                        width={1000}
-                        height={1000}
-                        className="w-full rounded-lg border border-pink-300"
-                        alt=""
-                    />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <Image
-                        src="/TUN_7854.jpg"
-                        width={1000}
-                        height={1000}
-                        className="w-full rounded-lg border border-pink-300"
-                        alt=""
-                    />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <Image
-                        src="/55543c9020ba8be4d2ab.jpg"
-                        width={1000}
-                        height={1000}
-                        className="w-full rounded-lg border border-pink-300"
-                        alt=""
-                    />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <Image
-                        src="/TUN_7899.jpg"
-                        width={1000}
-                        height={1000}
-                        className="w-full rounded-lg border border-pink-300"
-                        alt=""
-                    />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <Image
-                        src="/TUN_801771c83dbf76afafe9.jpg"
-                        width={1000}
-                        height={1000}
-                        className="w-full rounded-lg border border-pink-300"
-                        alt=""
-                    />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <Image
-                        src="/TUN_7908.jpg"
-                        width={1000}
-                        height={1000}
-                        className="w-full rounded-lg border border-pink-300"
-                        alt=""
-                    />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <Image
                         src="/e6cc2856347c9f22c66d.jpg"
                         width={1000}
                         height={1000}
@@ -112,7 +49,7 @@ const HomePage = () => {
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
-                        src="/2de0a2e7b8cd13934adc.jpg"
+                        src="/cbd2635b6e62c53c9c73.jpg"
                         width={1000}
                         height={1000}
                         className="w-full rounded-lg border border-pink-300"
@@ -121,7 +58,7 @@ const HomePage = () => {
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
-                        src="/d8de87e89ac2319c68d3.jpg"
+                        src="/5af74bc847f1ecafb5e0.jpg"
                         width={1000}
                         height={1000}
                         className="w-full rounded-lg border border-pink-300"
@@ -130,25 +67,7 @@ const HomePage = () => {
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
-                        src="/dc3d24d03bfa90a4c9eb.jpg"
-                        width={1000}
-                        height={1000}
-                        className="w-full rounded-lg border border-pink-300"
-                        alt=""
-                    />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <Image
-                        src="/323772916bbbc0e599aa.jpg"
-                        width={1000}
-                        height={1000}
-                        className="w-full rounded-lg border border-pink-300"
-                        alt=""
-                    />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <Image
-                        src="/f88aef46f96c52320b7d.jpg"
+                        src="/TUN_8035.jpg"
                         width={1000}
                         height={1000}
                         className="w-full rounded-lg border border-pink-300"
@@ -158,6 +77,16 @@ const HomePage = () => {
                 <SwiperSlide>
                     <Image
                         src="/e308d498c9b262ec3ba3.jpg"
+                        width={1000}
+                        height={1000}
+                        className="w-full rounded-lg border border-pink-300"
+                        alt=""
+                    />
+                </SwiperSlide>
+
+                <SwiperSlide>
+                    <Image
+                        src="/d2043b8930b09beec2a1.jpg"
                         width={1000}
                         height={1000}
                         className="w-full rounded-lg border border-pink-300"

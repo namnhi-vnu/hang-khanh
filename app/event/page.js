@@ -18,7 +18,7 @@ const page = () => {
                                 ..Tình yêu là điều kiện trong đó hạnh phúc của
                                 người khác là điều cần thiết cho chính bạn.
                             </p>
-                            <Countdown />
+                            {/* <Countdown /> */}
                         </div>
                     </div>
                     <div className={inter2.className}>
@@ -41,6 +41,13 @@ const page = () => {
                                             13:00 PM 05-02-2024 - ( 26/12/2023
                                             ÂL )
                                         </p>
+                                        <h2 className="text-2xl pb-2 pt-2">
+                                            Tiệc:{" "}
+                                        </h2>
+                                        <p className="text-xl pl-4">
+                                            16:00 PM 04-02-2024 - ( 25/12/2023
+                                            ÂL )
+                                        </p>
                                         <p className="text-xl pt-4">
                                             Địa chỉ: Đội 2, Thôn Hổ Sơn, Xã Liên
                                             Minh, Huyện Vụ Bản, Nam Định
@@ -58,6 +65,13 @@ const page = () => {
                                         </h2>
                                         <p className="text-xl pl-4">
                                             15:00 PM 05-02-2024 - ( 26/12/2023
+                                            ÂL )
+                                        </p>
+                                        <h2 className="text-2xl pb-2 pt-2">
+                                            Tiệc:{" "}
+                                        </h2>
+                                        <p className="text-xl pl-4">
+                                            17:00 PM 04-02-2024 - ( 25/12/2023
                                             ÂL )
                                         </p>
                                         <p className="text-xl pt-4">
