@@ -1,12 +1,15 @@
+"use client";
 import { Dancing_Script, Patrick_Hand } from "next/font/google";
 import Script from "next/script";
 import Image from "next/image";
 import { CiHeart } from "react-icons/ci";
+import HeartRain from "../components/Heart";
 const inter = Dancing_Script({ subsets: ["latin"] });
 const inter2 = Patrick_Hand({ subsets: ["latin"], weight: ["400"] });
 const page = () => {
     return (
         <div>
+            <HeartRain />
             <Script
                 src="https://kit.fontawesome.com/e078793ed8.js"
                 crossOrigin="anonymous"
