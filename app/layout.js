@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
                 <title>Hằng ♥ Khánh</title>
             </head>
             <body className={`${inter.className} `}>
-                <div className={`app ${isActive ? "active" : ""}`}>
+                <div className={`app h-screen ${isActive ? "active" : ""}`}>
                     <div>
                         <Header />
                         {isPopup && <Popup />}
