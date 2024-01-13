@@ -51,7 +51,7 @@
     top: -1vh;
     transform: translateY(0);
     animation: fall 3s linear forwards;
-    z-index: 999;
+    z-index: 98;
     color: #db2777;
 }
 
@@ -228,4 +228,44 @@
         transform: rotateX(0deg);
         z-index: 5;
     }
+}
+
+.popups {
+    width: 300px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    z-index: 99;
+    background-color: #fff;
+    border: solid 3px #db2777;
+    padding: 1em;
+    border-radius: 12px;
+}
+.app.active {
+    position: relative;
+}
+div.app.active::before {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+
+    overflow-y: hidden;
+    z-index: 9999999;
+}
+.__className_e66fe9::before {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+
+    overflow-y: hidden;
+    z-index: 9999999;
 }

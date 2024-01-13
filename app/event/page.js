@@ -15,8 +15,10 @@ const page = () => {
                                 Sự Kiện Cưới
                             </h2>
                             <p className="text-3xl max-md:text-2xl">
-                                ..Tình yêu là điều kiện trong đó hạnh phúc của
-                                người khác là điều cần thiết cho chính bạn.
+                                Mời bạn tới chung vui cùng gia đình chúng tôi.
+                                Sự hiện diện của bạn là làm cho ngày vui của
+                                chúng tôi được nhân lên bội phần. Hân hạnh được
+                                đón tiếp
                             </p>
                             {/* <Countdown /> */}
                         </div>

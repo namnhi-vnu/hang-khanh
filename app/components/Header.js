@@ -37,34 +37,16 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-            {/* <audio autoPlay loop>
-                <source src="https://a128-zmp3.zmdcdn.me/eb135c117389b164a076ba9c627cabec?authen=exp=1705027251~acl=/eb135c117389b164a076ba9c627cabec/*~hmac=1d38a40696a9f162c43028368d0be693" />
-            </audio>
+            {/* <audio autoPlay loop type="audio/mp3">
+                <source src="/love.mp3" type="audio/mp3" />
+            </audio> */}
             <iframe
-                src="https://vnno-vn-5-tf-a128-zmp3.zmdcdn.me/eb135c117389b164a076ba9c627cabec?authen=exp=1705027251~acl=/eb135c117389b164a076ba9c627cabec/*~hmac=1d38a40696a9f162c43028368d0be693"
+                src="/love.mp3"
                 allow="autoplay"
                 id="audio"
                 className="hidden"
-            ></iframe> */}
-
-            <video autoPlay="true" name="media" className="hidden">
-                <source
-                    src="https://vnno-vn-5-tf-a128-zmp3.zmdcdn.me/eb135c117389b164a076ba9c627cabec?authen=exp=1705027251~acl=/eb135c117389b164a076ba9c627cabec/*~hmac=1d38a40696a9f162c43028368d0be693"
-                    type="audio/mpeg"
-                    className="hidden"
-                />
-            </video>
-            {/* <iframe
-                src="https://zingmp3.vn/embed/song/IW7BO0OF?start=true"
-                allow="autoplay"
-                id="audio"
-                className="hidden"
-            /> */}
-            {/* <iframe
-                src="https://zingmp3.vn/embed/song/IW7BO0OF?start=true"
-                allow="autoplay"
-                className="hidden"
-            /> */}
+                type="audio/mp3"
+            ></iframe>
 
             <nav>
                 <div className="navbar">

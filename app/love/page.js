@@ -56,9 +56,9 @@ const page = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div class="heart-loves max-md:pb-[6em] max-md:pt-[3em]">
-                                <div class="contents">
-                                    <i class="fa-solid fa-heart"></i>
+                            <div className="heart-loves max-md:pb-[6em] max-md:pt-[3em]">
+                                <div className="contents">
+                                    <i className="fa-solid fa-heart"></i>
                                 </div>
                             </div>
                             <div className="text-center">
