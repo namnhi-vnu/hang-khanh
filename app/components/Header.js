@@ -40,13 +40,13 @@ const Header = () => {
             {/* <audio autoPlay loop type="audio/mp3">
                 <source src="/love.mp3" type="audio/mp3" />
             </audio> */}
-            <iframe
+            {/* <iframe
                 src="/love.mp3"
                 allow="autoplay"
                 id="audio"
                 className="hidden"
                 type="audio/mp3"
-            ></iframe>
+            ></iframe> */}
 
             <nav>
                 <div className="navbar">

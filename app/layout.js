@@ -6,6 +6,7 @@ import HeartRain from "./components/Heart";
 import Footer from "./components/Footer";
 import Popup from "./components/Popup";
 import { useEffect, useState } from "react";
+import AudioPlayer from "./components/AudioPlayer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -27,6 +28,7 @@ export default function RootLayout({ children }) {
                     </div>
                     <main>{children}</main>
                     <footer>
+                        <AudioPlayer />
                         <Footer />
                     </footer>
                 </div>

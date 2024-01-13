@@ -246,7 +246,7 @@
     position: relative;
 }
 div.app.active::before {
-    position: absolute !important;
+    position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
@@ -254,18 +254,5 @@ div.app.active::before {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.4);
 
-    overflow-y: hidden;
-    z-index: 9999999;
-}
-.__className_e66fe9::before {
-    position: fixed !important;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.4);
-
-    overflow-y: hidden;
     z-index: 9999999;
 }
